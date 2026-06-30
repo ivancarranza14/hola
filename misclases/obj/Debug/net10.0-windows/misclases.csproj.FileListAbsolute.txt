@@ -1,0 +1,11 @@
+C:\Users\Deku\source\repos\Amonic\misclases\bin\Debug\net10.0-windows\misclases.deps.json
+C:\Users\Deku\source\repos\Amonic\misclases\bin\Debug\net10.0-windows\misclases.dll
+C:\Users\Deku\source\repos\Amonic\misclases\bin\Debug\net10.0-windows\misclases.pdb
+C:\Users\Deku\source\repos\Amonic\misclases\obj\Debug\net10.0-windows\misclases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deku\source\repos\Amonic\misclases\obj\Debug\net10.0-windows\misclases.AssemblyInfoInputs.cache
+C:\Users\Deku\source\repos\Amonic\misclases\obj\Debug\net10.0-windows\misclases.AssemblyInfo.cs
+C:\Users\Deku\source\repos\Amonic\misclases\obj\Debug\net10.0-windows\misclases.csproj.CoreCompileInputs.cache
+C:\Users\Deku\source\repos\Amonic\misclases\obj\Debug\net10.0-windows\misclases.dll
+C:\Users\Deku\source\repos\Amonic\misclases\obj\Debug\net10.0-windows\refint\misclases.dll
+C:\Users\Deku\source\repos\Amonic\misclases\obj\Debug\net10.0-windows\misclases.pdb
+C:\Users\Deku\source\repos\Amonic\misclases\obj\Debug\net10.0-windows\ref\misclases.dll

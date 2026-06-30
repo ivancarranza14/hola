@@ -1,0 +1,12 @@
+C:\Users\Deku\source\repos\Amonic\Countries\bin\Debug\net10.0-windows\clases.dll.config
+C:\Users\Deku\source\repos\Amonic\Countries\bin\Debug\net10.0-windows\clases.deps.json
+C:\Users\Deku\source\repos\Amonic\Countries\bin\Debug\net10.0-windows\clases.dll
+C:\Users\Deku\source\repos\Amonic\Countries\bin\Debug\net10.0-windows\clases.pdb
+C:\Users\Deku\source\repos\Amonic\Countries\obj\Debug\net10.0-windows\clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deku\source\repos\Amonic\Countries\obj\Debug\net10.0-windows\clases.AssemblyInfoInputs.cache
+C:\Users\Deku\source\repos\Amonic\Countries\obj\Debug\net10.0-windows\clases.AssemblyInfo.cs
+C:\Users\Deku\source\repos\Amonic\Countries\obj\Debug\net10.0-windows\clases.csproj.CoreCompileInputs.cache
+C:\Users\Deku\source\repos\Amonic\Countries\obj\Debug\net10.0-windows\clases.dll
+C:\Users\Deku\source\repos\Amonic\Countries\obj\Debug\net10.0-windows\refint\clases.dll
+C:\Users\Deku\source\repos\Amonic\Countries\obj\Debug\net10.0-windows\clases.pdb
+C:\Users\Deku\source\repos\Amonic\Countries\obj\Debug\net10.0-windows\ref\clases.dll

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FormCountries/dbAmonic.csproj" />
+  <Project Path="misclases/claseLogica.csproj" Id="f1fec606-c192-4f18-b68e-0284d19dc2e0" />
+</Solution>

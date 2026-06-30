@@ -1,0 +1,11 @@
+C:\Users\Deku\source\repos\Amonic\clases\bin\Debug\net10.0-windows\clasesLogica.deps.json
+C:\Users\Deku\source\repos\Amonic\clases\bin\Debug\net10.0-windows\clasesLogica.dll
+C:\Users\Deku\source\repos\Amonic\clases\bin\Debug\net10.0-windows\clasesLogica.pdb
+C:\Users\Deku\source\repos\Amonic\clases\obj\Debug\net10.0-windows\clasesLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deku\source\repos\Amonic\clases\obj\Debug\net10.0-windows\clasesLogica.AssemblyInfoInputs.cache
+C:\Users\Deku\source\repos\Amonic\clases\obj\Debug\net10.0-windows\clasesLogica.AssemblyInfo.cs
+C:\Users\Deku\source\repos\Amonic\clases\obj\Debug\net10.0-windows\clasesLogica.csproj.CoreCompileInputs.cache
+C:\Users\Deku\source\repos\Amonic\clases\obj\Debug\net10.0-windows\clasesLogica.dll
+C:\Users\Deku\source\repos\Amonic\clases\obj\Debug\net10.0-windows\refint\clasesLogica.dll
+C:\Users\Deku\source\repos\Amonic\clases\obj\Debug\net10.0-windows\clasesLogica.pdb
+C:\Users\Deku\source\repos\Amonic\clases\obj\Debug\net10.0-windows\ref\clasesLogica.dll
