@@ -9,14 +9,14 @@ namespace claseLogica
         public int User_id { get; set; }
 
         public string Office { get; set; }
-        
+
         public int Office_ID { get; set; }
         public int Role_id { get; set; }
         public string Role { get; set; }
 
         public string Email { get; set; }
 
-        public int password { get; set; }
+        public string password { get; set; }
 
         public string Firstname { get; set; }
 

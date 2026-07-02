@@ -45,23 +45,26 @@
             // 
             // txtemail
             // 
+            txtemail.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             txtemail.Location = new Point(325, 37);
             txtemail.Name = "txtemail";
-            txtemail.Size = new Size(125, 27);
+            txtemail.Size = new Size(231, 27);
             txtemail.TabIndex = 0;
             // 
             // txtfirstname
             // 
+            txtfirstname.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             txtfirstname.Location = new Point(325, 92);
             txtfirstname.Name = "txtfirstname";
-            txtfirstname.Size = new Size(125, 27);
+            txtfirstname.Size = new Size(231, 27);
             txtfirstname.TabIndex = 1;
             // 
             // txtlastname
             // 
+            txtlastname.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             txtlastname.Location = new Point(325, 148);
             txtlastname.Name = "txtlastname";
-            txtlastname.Size = new Size(125, 27);
+            txtlastname.Size = new Size(231, 27);
             txtlastname.TabIndex = 2;
             // 
             // label1
@@ -69,32 +72,35 @@
             label1.AutoSize = true;
             label1.Location = new Point(222, 45);
             label1.Name = "label1";
-            label1.Size = new Size(92, 20);
+            label1.Size = new Size(94, 20);
             label1.TabIndex = 4;
-            label1.Text = "Email adress";
+            label1.Text = "Email Adress";
             // 
             // label2
             // 
+            label2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             label2.AutoSize = true;
             label2.Location = new Point(222, 104);
             label2.Name = "label2";
-            label2.Size = new Size(75, 20);
+            label2.Size = new Size(80, 20);
             label2.TabIndex = 5;
-            label2.Text = "first name";
+            label2.Text = "First Name";
             // 
             // label3
             // 
+            label3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             label3.AutoSize = true;
             label3.Location = new Point(222, 160);
             label3.Name = "label3";
-            label3.Size = new Size(73, 20);
+            label3.Size = new Size(79, 20);
             label3.TabIndex = 6;
-            label3.Text = "last name";
+            label3.Text = "Last Name";
             // 
             // label4
             // 
+            label4.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             label4.AutoSize = true;
-            label4.Location = new Point(222, 214);
+            label4.Location = new Point(236, 214);
             label4.Name = "label4";
             label4.Size = new Size(49, 20);
             label4.TabIndex = 7;
@@ -102,19 +108,21 @@
             // 
             // radioadmin
             // 
+            radioadmin.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             radioadmin.AutoSize = true;
-            radioadmin.Location = new Point(325, 265);
+            radioadmin.Location = new Point(435, 276);
             radioadmin.Name = "radioadmin";
-            radioadmin.Size = new Size(116, 24);
+            radioadmin.Size = new Size(121, 24);
             radioadmin.TabIndex = 8;
             radioadmin.TabStop = true;
-            radioadmin.Text = "Aministrador";
+            radioadmin.Text = "Administrator";
             radioadmin.UseVisualStyleBackColor = true;
             // 
             // radiouser
             // 
+            radiouser.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             radiouser.AutoSize = true;
-            radiouser.Location = new Point(325, 295);
+            radiouser.Location = new Point(328, 276);
             radiouser.Name = "radiouser";
             radiouser.Size = new Size(59, 24);
             radiouser.TabIndex = 9;
@@ -124,15 +132,17 @@
             // 
             // combooffice
             // 
+            combooffice.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             combooffice.FormattingEnabled = true;
             combooffice.Location = new Point(325, 206);
             combooffice.Name = "combooffice";
-            combooffice.Size = new Size(151, 28);
+            combooffice.Size = new Size(231, 28);
             combooffice.TabIndex = 10;
             // 
             // btnapply
             // 
-            btnapply.Location = new Point(222, 358);
+            btnapply.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            btnapply.Location = new Point(270, 358);
             btnapply.Name = "btnapply";
             btnapply.Size = new Size(94, 29);
             btnapply.TabIndex = 11;
@@ -142,18 +152,20 @@
             // 
             // btncancel
             // 
-            btncancel.Location = new Point(355, 358);
+            btncancel.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            btncancel.Location = new Point(403, 358);
             btncancel.Name = "btncancel";
             btncancel.Size = new Size(94, 29);
             btncancel.TabIndex = 12;
-            btncancel.Text = "cancel";
+            btncancel.Text = "Cancel";
             btncancel.UseVisualStyleBackColor = true;
             btncancel.Click += btncancel_Click;
             // 
             // label5
             // 
+            label5.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             label5.AutoSize = true;
-            label5.Location = new Point(222, 284);
+            label5.Location = new Point(243, 277);
             label5.Name = "label5";
             label5.Size = new Size(39, 20);
             label5.TabIndex = 13;

@@ -45,15 +45,16 @@
             datamostrar.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             datamostrar.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             datamostrar.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            datamostrar.Location = new Point(12, 84);
+            datamostrar.Location = new Point(12, 82);
             datamostrar.Name = "datamostrar";
             datamostrar.RowHeadersWidth = 51;
-            datamostrar.Size = new Size(776, 306);
+            datamostrar.Size = new Size(776, 237);
             datamostrar.TabIndex = 0;
             // 
             // btnchange
             // 
-            btnchange.Location = new Point(12, 409);
+            btnchange.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            btnchange.Location = new Point(12, 343);
             btnchange.Name = "btnchange";
             btnchange.Size = new Size(94, 29);
             btnchange.TabIndex = 1;
@@ -63,12 +64,14 @@
             // 
             // button2
             // 
-            button2.Location = new Point(133, 409);
+            button2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            button2.Location = new Point(133, 343);
             button2.Name = "button2";
             button2.Size = new Size(209, 29);
             button2.TabIndex = 2;
             button2.Text = "Enable/Disable Login";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // menuStrip1
             // 
@@ -116,7 +119,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 394);
             Controls.Add(comboffice);
             Controls.Add(label1);
             Controls.Add(button2);

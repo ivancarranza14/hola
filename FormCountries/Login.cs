@@ -27,31 +27,44 @@ namespace FormCountries
         {
             UsersDAO usuario = new UsersDAO();
 
-            bool Ingresar = usuario.Login(
-
+            LoginResultado resultado = usuario.Login(
                 txtUser.Text,
                 txtPassword.Text
             );
-            if (Ingresar)
+
+            switch (resultado)
             {
-                MessageBox.Show("Bienvenido");
-                Visible = false;
-                filtros filtros = new filtros();
-                filtros.Visible = true;
-            }
-            else
-            {
-                contador++;
-                if (contador >= 3)
-                {
-                    tiempo = 10;
-                    lblTiempo.Visible = true;
-                    lblTiempo.Text = "Espere " + tiempo + " " + "Segundos";
-                    timer1.Start();
-                    btnLogin.Enabled = false;
-                 
-                }
-                MessageBox.Show("Usuario o contrasena incorrecta");
+                case LoginResultado.Exito:
+                    Sesion.EmailUsuarioActual = txtUser.Text;
+
+                    MessageBox.Show("BIENVENIDO");
+                    Visible = false;
+                    filtros filtros = new filtros();
+                    filtros.Visible = true;
+                    break;
+
+                case LoginResultado.UsuarioInactivo:
+                    MessageBox.Show(
+                        "Tu usuario está inactivo. Comunícate con el administrador para que te active.",
+                        "Usuario inactivo");
+                    break;
+
+                case LoginResultado.CredencialesInvalidas:
+                case LoginResultado.Error:
+                default:
+                    contador++;
+                    if (contador >= 3)
+                    {
+                        tiempo = 10;
+                        lblTiempo.Visible = true;
+                        lblTiempo.Text = "Espere " + tiempo + " " + "Segundos";
+                        timer1.Start();
+                        btnLogin.Enabled = false;
+                    }
+
+                    if (resultado == LoginResultado.CredencialesInvalidas)
+                        MessageBox.Show("Usuario o contrasena incorrecta");
+                    break;
             }
         }
 
@@ -59,7 +72,7 @@ namespace FormCountries
         {
             tiempo--;
             lblTiempo.Text = "Espere " + tiempo + " " + "Segundos";
-            if ( tiempo <= 0)
+            if (tiempo <= 0)
             {
                 timer1.Stop();
                 btnLogin.Enabled = true;
@@ -78,5 +91,6 @@ namespace FormCountries
         {
             txtPassword.PasswordChar = '*';
         }
+
     }
 }

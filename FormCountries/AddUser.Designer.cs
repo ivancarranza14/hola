@@ -136,7 +136,7 @@
             // 
             // btnSave
             // 
-            btnSave.Location = new Point(185, 348);
+            btnSave.Location = new Point(203, 348);
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(94, 29);
             btnSave.TabIndex = 13;
@@ -146,12 +146,13 @@
             // 
             // btnCancel
             // 
-            btnCancel.Location = new Point(369, 348);
+            btnCancel.Location = new Point(387, 348);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(94, 29);
             btnCancel.TabIndex = 14;
             btnCancel.Text = "Cancel";
             btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.Click += btnCancel_Click;
             // 
             // dateTimePickerAge
             // 
@@ -167,7 +168,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(582, 450);
             Controls.Add(dateTimePickerAge);
             Controls.Add(btnCancel);
             Controls.Add(btnSave);

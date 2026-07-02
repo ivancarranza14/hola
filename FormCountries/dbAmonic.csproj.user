@@ -7,9 +7,6 @@
     <Compile Update="change roles.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Database.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="filtros.cs">
       <SubType>Form</SubType>
     </Compile>

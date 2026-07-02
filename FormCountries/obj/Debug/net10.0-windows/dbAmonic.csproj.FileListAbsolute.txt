@@ -1,5 +1,4 @@
 C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\dbAmonic.csproj.AssemblyReference.cache
-C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\FormCountries.Database.resources
 C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\dbAmonic.Properties.Resources.resources
 C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\dbAmonic.csproj.GenerateResource.cache
 C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\dbAmonic.GeneratedMSBuildEditorConfig.editorconfig
@@ -60,3 +59,4 @@ C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\ref\db
 C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\dbAmonic.filtros.resources
 C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\dbAmonic.AddUser.resources
 C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\dbAmonic.change_roles.resources
+C:\Users\Deku\source\repos\Amonic\FormCountries\obj\Debug\net10.0-windows\dbAmonic.sourcelink.json

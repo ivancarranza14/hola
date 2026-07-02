@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dbAmonic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93ac18e6e280e2e46df0bf3a6b04886414360d84")]
 [assembly: System.Reflection.AssemblyProductAttribute("dbAmonic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dbAmonic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
