@@ -138,7 +138,7 @@ namespace dbAmonic
                 {
                     a.Firstname,
                     a.Lastname,
-                    a.Birthdate,
+                    a.Edad,
                     a.Role,
                     a.Email,
                     a.Office,
@@ -191,6 +191,7 @@ namespace dbAmonic
 
         private void button2_Click(object sender, EventArgs e)
         {
+           
             if (datamostrar.CurrentRow == null)
             {
                 MessageBox.Show("Selecciona un usuario primero.",
@@ -200,14 +201,20 @@ namespace dbAmonic
 
             string emailSeleccionado = datamostrar.CurrentRow.Cells["Email"].Value.ToString();
             Users usuarioSeleccionado = user_lista.FirstOrDefault(u => u.Email == emailSeleccionado);
-
+            /*linda prueba */
+            if (usuarioSeleccionado.Email.Equals(Sesion.EmailUsuarioActual, StringComparison.OrdinalIgnoreCase))
+            {
+                MessageBox.Show(
+                    "No puedes desabilitarte como administrador.");
+                return;
+            }
             if (usuarioSeleccionado == null)
             {
                 MessageBox.Show("No se encontró el usuario seleccionado.",
                     "Error");
                 return;
             }
-
+            
             bool nuevoEstado = !usuarioSeleccionado.Active;
 
             string accion = nuevoEstado ? "habilitar" : "deshabilitar";

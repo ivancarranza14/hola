@@ -987,23 +987,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Deku\\.nuget\\packages\\": {},
+    "C:\\Users\\Aprendiz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\dbAmonic.csproj",
+      "projectUniqueName": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\dbAmonic.csproj",
       "projectName": "dbAmonic",
-      "projectPath": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\dbAmonic.csproj",
-      "packagesPath": "C:\\Users\\Deku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\obj\\",
+      "projectPath": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\dbAmonic.csproj",
+      "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Deku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1012,6 +1012,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1019,8 +1020,8 @@
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
           "projectReferences": {
-            "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\claseLogica.csproj": {
-              "projectPath": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\claseLogica.csproj"
+            "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\claseLogica.csproj": {
+              "projectPath": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\claseLogica.csproj"
             }
           }
         }

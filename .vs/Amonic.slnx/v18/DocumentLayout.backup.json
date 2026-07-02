@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Deku\\source\\repos\\Amonic\\",
+  "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Documents\\hola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\deku\\source\\repos\\amonic\\formcountries\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|c:\\users\\deku\\source\\repos\\amonic\\misclases\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|solutionrelative:misclases\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|C:\\Users\\Deku\\source\\repos\\Amonic\\formcountries\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|C:\\Users\\Deku\\source\\repos\\Amonic\\formcountries\\change roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\change roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\deku\\source\\repos\\amonic\\formcountries\\change roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\change roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|C:\\Users\\Deku\\source\\repos\\Amonic\\formcountries\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\aprendiz\\documents\\hola\\formcountries\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\deku\\source\\repos\\amonic\\formcountries\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\aprendiz\\documents\\hola\\formcountries\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|c:\\users\\deku\\source\\repos\\amonic\\misclases\\claselogica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|solutionrelative:misclases\\claselogica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\aprendiz\\documents\\hola\\formcountries\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|c:\\users\\deku\\source\\repos\\amonic\\misclases\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|c:\\users\\aprendiz\\documents\\hola\\misclases\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|solutionrelative:misclases\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\deku\\source\\repos\\amonic\\formcountries\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\aprendiz\\documents\\hola\\formcountries\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|c:\\users\\aprendiz\\documents\\hola\\misclases\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|solutionrelative:misclases\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|C:\\Users\\Aprendiz\\Documents\\hola\\formcountries\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|C:\\Users\\Aprendiz\\Documents\\hola\\formcountries\\change roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\change roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\aprendiz\\documents\\hola\\formcountries\\change roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\change roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|c:\\users\\aprendiz\\documents\\hola\\misclases\\claselogica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|solutionrelative:misclases\\claselogica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|c:\\users\\aprendiz\\documents\\hola\\formcountries\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|C:\\Users\\Deku\\source\\repos\\Amonic\\formcountries\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|C:\\Users\\Aprendiz\\Documents\\hola\\formcountries\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{232BCF12-4D41-DCE8-C8B6-3D206A55622A}|FormCountries\\dbAmonic.csproj|solutionrelative:formcountries\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|c:\\users\\deku\\source\\repos\\amonic\\misclases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|c:\\users\\aprendiz\\documents\\hola\\misclases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1FEC606-C192-4F18-B68E-0284D19DC2E0}|misclases\\claseLogica.csproj|solutionrelative:misclases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,19 +62,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\Login.cs",
+              "RelativeDocumentMoniker": "FormCountries\\Login.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\Login.cs",
+              "RelativeToolTip": "FormCountries\\Login.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T20:25:10.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\AddUser.cs",
+              "RelativeDocumentMoniker": "FormCountries\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\AddUser.cs",
+              "RelativeToolTip": "FormCountries\\AddUser.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwE8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T14:29:41.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "filtros.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\filtros.cs",
+              "RelativeDocumentMoniker": "FormCountries\\filtros.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\filtros.cs",
+              "RelativeToolTip": "FormCountries\\filtros.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:40:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\Users.cs",
+              "RelativeDocumentMoniker": "misclases\\Users.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\Users.cs",
+              "RelativeToolTip": "misclases\\Users.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:40:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "claseLogica.csproj",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\claseLogica.csproj",
+              "RelativeDocumentMoniker": "misclases\\claseLogica.csproj",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\claseLogica.csproj",
+              "RelativeToolTip": "misclases\\claseLogica.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-01T14:35:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\App.config",
+              "RelativeDocumentMoniker": "FormCountries\\App.config",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\App.config",
+              "RelativeToolTip": "FormCountries\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-01T14:29:40.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\Conexion.cs",
+              "RelativeDocumentMoniker": "misclases\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\Conexion.cs",
+              "RelativeToolTip": "misclases\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:29:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\UsersDAO.cs",
+              "RelativeDocumentMoniker": "misclases\\UsersDAO.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\misclases\\UsersDAO.cs",
+              "RelativeToolTip": "misclases\\UsersDAO.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAUwHgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:23:04.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "filtros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\filtros.cs",
+              "RelativeDocumentMoniker": "FormCountries\\filtros.cs",
+              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\filtros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Deku\\source\\repos\\Amonic\\FormCountries\\filtros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:36:11.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUser.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\AddUser.cs",
+              "RelativeDocumentMoniker": "FormCountries\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\AddUser.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Deku\\source\\repos\\Amonic\\FormCountries\\AddUser.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:59:05.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\Login.cs",
+              "RelativeDocumentMoniker": "FormCountries\\Login.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormCountries\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:57:22.531Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "change roles.cs",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\change roles.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\change roles.cs",
               "RelativeDocumentMoniker": "FormCountries\\change roles.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\change roles.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\change roles.cs",
               "RelativeToolTip": "FormCountries\\change roles.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAEwFYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,142 +212,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddUser.cs",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\AddUser.cs",
-              "RelativeDocumentMoniker": "FormCountries\\AddUser.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\AddUser.cs",
-              "RelativeToolTip": "FormCountries\\AddUser.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAIA3wE8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T14:29:41.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "filtros.cs",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\filtros.cs",
-              "RelativeDocumentMoniker": "FormCountries\\filtros.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\filtros.cs",
-              "RelativeToolTip": "FormCountries\\filtros.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:40:41.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\Users.cs",
-              "RelativeDocumentMoniker": "misclases\\Users.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\Users.cs",
-              "RelativeToolTip": "misclases\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:40:26.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "claseLogica.csproj",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\claseLogica.csproj",
-              "RelativeDocumentMoniker": "misclases\\claseLogica.csproj",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\claseLogica.csproj",
-              "RelativeToolTip": "misclases\\claseLogica.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-01T14:35:39.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\App.config",
-              "RelativeDocumentMoniker": "FormCountries\\App.config",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\App.config",
-              "RelativeToolTip": "FormCountries\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-07-01T14:29:40.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\Conexion.cs",
-              "RelativeDocumentMoniker": "misclases\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\Conexion.cs",
-              "RelativeToolTip": "misclases\\Conexion.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:29:31.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\UsersDAO.cs",
-              "RelativeDocumentMoniker": "misclases\\UsersDAO.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\misclases\\UsersDAO.cs",
-              "RelativeToolTip": "misclases\\UsersDAO.cs",
-              "ViewState": "AgIAAGYBAAAAAAAAAAAAAHgBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:23:04.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "filtros.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\filtros.cs",
-              "RelativeDocumentMoniker": "FormCountries\\filtros.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\filtros.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormCountries\\filtros.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T13:36:11.624Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddUser.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\AddUser.cs",
-              "RelativeDocumentMoniker": "FormCountries\\AddUser.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\AddUser.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormCountries\\AddUser.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T14:59:05.272Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\Login.cs",
-              "RelativeDocumentMoniker": "FormCountries\\Login.cs",
-              "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormCountries\\Login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T14:57:22.531Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "change roles.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\change roles.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Documents\\hola\\FormCountries\\change roles.cs",
               "RelativeDocumentMoniker": "FormCountries\\change roles.cs",
               "ToolTip": "C:\\Users\\Deku\\source\\repos\\Amonic\\FormCountries\\change roles.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormCountries\\change roles.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Deku\\source\\repos\\Amonic\\FormCountries\\change roles.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:43:28.105Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-07-01T07:43:28.105Z"
             }
           ]
         }
